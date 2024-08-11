@@ -2,4 +2,4 @@ snowflake-snowpark-python
 streamlit
 requests
 pandas
-dbt==1.41.1
+dbt-snowflake v1.4.1
